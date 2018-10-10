@@ -1,4 +1,4 @@
-Algoritmo E04TareaVersión2
+Algoritmo E04TareaV02
 	a <- 0
 	b <- 0
 	c <- 0
