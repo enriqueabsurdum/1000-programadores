@@ -15,3 +15,9 @@
     * [Ver solución 03](https://github.com/enriqueabsurdum/1000-programadores/blob/master/02-introduccion-a-la-informatica/09-10-2018-ejercicios/E04TareaV03.png) : [Ver pseudocódigo](https://github.com/enriqueabsurdum/1000-programadores/blob/master/02-introduccion-a-la-informatica/09-10-2018-ejercicios/E04TareaV03.psc)
     * [Ver solución 04](https://github.com/enriqueabsurdum/1000-programadores/blob/master/02-introduccion-a-la-informatica/09-10-2018-ejercicios/E04TareaV04.png) : [Ver pseudocódigo](https://github.com/enriqueabsurdum/1000-programadores/blob/master/02-introduccion-a-la-informatica/09-10-2018-ejercicios/E04TareaV04.psc)
     * [Ver solución 05](https://github.com/enriqueabsurdum/1000-programadores/blob/master/02-introduccion-a-la-informatica/09-10-2018-ejercicios/E04TareaV05.png) : [Ver pseudocódigo](https://github.com/enriqueabsurdum/1000-programadores/blob/master/02-introduccion-a-la-informatica/09-10-2018-ejercicios/E04TareaV05.psc)
+
+***
+<div align="right">
+
+[**Volver 𝌖**](https://github.com/enriqueabsurdum/1000-programadores/blob/master/README.md)
+</div>  
